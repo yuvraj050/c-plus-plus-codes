@@ -1,0 +1,5 @@
+//copy paste one full line
+-> shift+alt+upper arrow
+
+//move lines up/down
+-> alt + upper/down arrow

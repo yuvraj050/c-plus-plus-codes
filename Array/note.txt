@@ -1,0 +1,12 @@
+Q Why Arrays used?
+ List -> List of integers -> 11,21,22,24,25
+ List -> List of char -> "A" B C D E
+ List -> List of float -> 99.4 95.2 90.2 92.2
+
+ Ek declaration se multiple var bana sakta hu and that all var is stored in memory in congious fashion
+
+Q Syntax and declaration
+  
+  int x[5]; // declaration  created x named var in that 5 values can be stored
+
+  x[0] = [4]; // initializing of array elements (individual) that in 0th index store num 4
